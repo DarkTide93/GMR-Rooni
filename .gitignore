@@ -1,3 +1,4 @@
 *.lua
 *.sh
 instructions.md
+^rooni_loader.lua
