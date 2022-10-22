@@ -1,8 +1,1 @@
-GMR.RunEncryptedScript("<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-")
+GMR.RunEncryptedScript("e36J0LGQvuQO3vP0q+U1e0TTkuG8i+EB6waLI6gbORB02USebzk6sRhH512i7Zd/EtiSyPdSb5aADV5vgBIL7le+/ve6UV0Uhqrd4wA/VtUne479QKhXt5SiozuhlTNc/q/JkOOAYtXiuzVm13Or3iKv+48dnKBx5QbPWmjKE0l/5Wo0+OpKdNZRRZDoESBZRiYIqZLFACHZQZ0hTsuq/eDWDGWtVf9txktSKABjRnYTdzrECv4yDI9jtQFOoZqNRscwelg0NfeE/TDCzfnd6Dl2oDgxdrVFpL4fV34qF6U=")
