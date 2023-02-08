@@ -1,1 +1,1 @@
-GMR.RunEncryptedScript("{"timestamp":"2023-02-08T18:29:50.367+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public java.lang.String com.gmr.backend.controller.LuaController.encrypt(java.lang.String)","path":"/lua/encrypt"}")
+GMR.RunEncryptedScript("{"timestamp":"2023-02-08T18:30:06.968+00:00","status":400,"error":"Bad Request","message":"Required request body is missing: public java.lang.String com.gmr.backend.controller.LuaController.encrypt(java.lang.String)","path":"/lua/encrypt"}")
