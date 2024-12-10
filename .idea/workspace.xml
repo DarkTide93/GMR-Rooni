@@ -131,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733803904818</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix">
+      <created>1733805202515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733805202515</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-">
+      <created>1733805234298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733805234298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,9 +187,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix" />
     <MESSAGE value="fixup! fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixup! fix" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
